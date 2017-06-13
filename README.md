@@ -7,6 +7,18 @@
 ## 홀로렌즈란
 * MS에서 개발중인 증강현실 기기 (더 많은 정보는 링크 참조)
   * MS의 홀로렌즈 사이트 <https://www.microsoft.com/en-us/hololens>
-  
+  ![hololens(from wiki)](./images/hololens.jpg)
+
+## 홀로렌즈 개발환경
+1. Windows 10 OS 추천(MS 추천) - Windows 8.1, 8, 7, Windows Server 2012, Windows Server 2008 R2 (지원한다함.)
+2. Visual Studio 2015 Update3 (Community, Pro, Ent)이상
+	* 나는 Visual Studio 2017 Community를 설치했음.
+	* 하지만 Visual Studio 2015 Update 3에서 Hololens 프로젝트 템플릿을 지원한다함. (2017은 지원안함..내가 설치하는 시점까지는..)
+3. Holelens Emulator 설치
+4. Unity 설치
+5. Vuforia 설치
+
+* * *
+작성중..
 
 [a relative link](./Test.md)
