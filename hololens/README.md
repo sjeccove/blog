@@ -12,7 +12,7 @@
 
 
 ## 홀로렌즈 개발환경 
-#### MS 사이트 내용 요약 <https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools>
+#### MS 사이트 내용 요약 (<https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools>)
 1. Windows 10 OS 추천 - Windows 8.1, 8, 7, Windows Server 2012, Windows Server 2008 R2 (지원한다함.)
 2. Visual Studio 2015 Update3 (Community, Pro, Ent)이상
 	* 나는 Visual Studio 2017 Community를 설치했음.
