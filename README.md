@@ -15,6 +15,7 @@
 	* 나는 Visual Studio 2017 Community를 설치했음.
 	* 하지만 Visual Studio 2015 Update 3에서 Hololens 프로젝트 템플릿을 지원한다함. (2017은 지원안함..내가 설치하는 시점까지는..)
 3. Holelens Emulator 설치
+	* Hyper-V가 설치되어 있어야함(Windows Home은 Hyper-V 지원안함, Pro 이상 지원)
 4. Unity 설치
 5. Vuforia 설치
 
