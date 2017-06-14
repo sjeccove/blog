@@ -8,6 +8,8 @@
 * MS에서 개발중인 증강현실 기기 (더 많은 정보는 링크 참조)
   * MS의 홀로렌즈 사이트 <https://www.microsoft.com/en-us/hololens>
   ![hololens(from wiki)](./images/hololens.jpg)
+  [![Hololens Is AWESOME](https://img.youtube.com/vi/pLd9WPlaMpY/0.jpg)](https://youtu.be/pLd9WPlaMpY "Hololens Is AWESOME")
+
 
 ## 홀로렌즈 개발환경 
 #### MS 사이트 내용 요약 (https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools)
@@ -23,4 +25,5 @@
 #### - [나의 개발 환경 및 설명](./MyDevelopEnv.md)
 * * *
 작성중..
+
 
