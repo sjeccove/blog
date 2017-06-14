@@ -4,11 +4,13 @@
 큰 마음을 먹고 이제 공부를 해볼생각이다.
 누구가를 위한것이 아니여서 맘대로 끄적거릴 생각.
 
+
 ## 홀로렌즈란
 * MS에서 개발중인 증강현실 기기 (더 많은 정보는 링크 참조)
   * MS의 홀로렌즈 사이트 <https://www.microsoft.com/en-us/hololens>
   ![hololens(from wiki)](./images/hololens.jpg)
   [![Hololens Is AWESOME](https://img.youtube.com/vi/pLd9WPlaMpY/0.jpg)](https://youtu.be/pLd9WPlaMpY "Hololens Is AWESOME")
+
 
 
 ## 홀로렌즈 개발환경 
@@ -21,6 +23,8 @@
 	* Hyper-V가 설치되어 있어야함(Windows Home은 Hyper-V 지원안함, Pro 이상 지원)
 4. Unity 설치
 5. Vuforia 설치
+
+
 
 #### - [나의 개발 환경 및 설명](./MyDevelopEnv.md)
 * * *
