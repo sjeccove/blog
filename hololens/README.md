@@ -20,7 +20,7 @@
 4. Unity 설치
 5. Vuforia 설치
 
-#### - [나의 개발 환경 및 설명](./MyDelevopEnv.md)
+#### - [나의 개발 환경 및 설명](./MyDevelopEnv.md)
 * * *
 작성중..
 
