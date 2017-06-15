@@ -10,28 +10,28 @@
 ### 2. Hololens Emulator
    * [홀로렌즈 다운로드](http://go.microsoft.com/fwlink/?LinkID=823018)
    
-   	1. 다운로드 받은 파일을 실행시키면
+   		#### 1. 다운로드 받은 파일을 실행시키면
 
 ![hololensEmulator_install_01](./images/hololens_install_01.jpg)
-	> 위 그림과 같이 설치 방법을 선택하라고 나오고 알맞게 선택하고 Next 선택. (난 당연히 바로 설치인 첫 항목 선택)
+		#### 위 그림과 같이 설치 방법을 선택하라고 나오고 알맞게 선택하고 Next 선택. (난 당연히 바로 설치인 첫 항목 선택)
   <br/>
   
-	2. MS에 정보제공 선택후 Next 클릭 (난 NO 선택)
+  		#### 2. MS에 정보제공 선택후 Next 클릭 (난 NO 선택)
 	
 ![hololensEmulator_install_02](./images/hololens_install_02.jpg)
 <br/>
 
-	3. 라이센스 관련 동의 Accept 선택 버튼 클릭
+		#### 3. 라이센스 관련 동의 Accept 선택 버튼 클릭
 	
 ![hololensEmulator_install_03](./images/hololens_install_03.jpg)
 <br/>
 
-	4. 인스톨 항목 선택 당연히 모두 선택하고 Install 버튼 클릭
+		#### 4. 인스톨 항목 선택 당연히 모두 선택하고 Install 버튼 클릭
 	
 ![hololensEmulator_install_04](./images/hololens_install_04.jpg)
 <br/>
 
-	5. 설치완료 화면 Close 선택
+		#### 5. 설치완료 화면 Close 선택
 	
 ![hololensEmulator_install_05](./images/hololens_install_05.jpg)
 	
