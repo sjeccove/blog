@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: CcoCco's Blog
+title: CcoCco's Blog{{site.baseurl}} 
 description: 나의 관심분야 기록!
 url: https://sjeccove.github.io/blog/
 root: /blog/
