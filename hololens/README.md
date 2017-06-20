@@ -24,7 +24,7 @@
 5. Vuforia 설치
 <br/>
 
-#### - [나의 개발 환경 및 설명](./MyDevelopEnv.md)
+#### - [나의 개발 환경 및 설명(My development environment)](./MyDevelopEnv.md)
 * * *
 작성중..
 
