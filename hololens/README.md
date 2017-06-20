@@ -25,6 +25,7 @@
 <br/>
 
 #### - [나의 개발 환경 및 설명(My development environment)](./MyDevelopEnv.md)
+   * [윈도우 혼합 현실 시뮬레이터 사용하기(Using the Windows Mixed Reality simulator)](./MixedRealitySimulator.md)
 * * *
 작성중..
 
