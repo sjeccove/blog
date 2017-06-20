@@ -3,6 +3,6 @@
 
 # 관심항목 리스트
 
-### 1. [홀로렌즈 앱 개발](./hololens/README.md)
+### 1. [홀로렌즈 앱 개발(Hololens App Develop)](./hololens/README.md)
 
 -- 계속 작성중...
