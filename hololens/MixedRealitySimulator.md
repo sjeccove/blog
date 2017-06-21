@@ -54,7 +54,8 @@
 > 전진(W), 후진(S), 왼쪽(A), 오른쪽(D) 키를 누르면 화면이 움직인다.  
   시야의 위, 아래, 왼쪽, 오른쪽은 키보드의 이동키를 이용하면 된다.  
   또는 마우스 왼쪽 클릭 드래그를 이용할 수도 있다.  
-  선택은 오른쪽 마우스 클릭을 하면된다.
+  선택은 오른쪽 마우스 클릭을 하면된다.  
+  [자세한정보](https://developer.microsoft.com/en-us/windows/mixed-reality/advanced_hololens_emulator_and_mixed_reality_simulator_input)
   
 <br/>
 
