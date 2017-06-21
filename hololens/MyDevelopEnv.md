@@ -35,6 +35,17 @@
 	
 	
 ### 3. Visual Studio 2017
+   * [Visual Studio 2017 다운로드](https://developer.microsoft.com/ko-kr/windows/downloads) - 난 돈이없어 Community 버전 설치
+
+![vs2017 image 1](./images/vs2017_01.png)
+> 유니버셜 윈도우 플랫폼 개발 항목 선택
+
+![vs2017 image 2](./images/vs2017_02.png)
+> 유니티 개임 개발 항목 선택  
+  최신 버전의 유니티를 설치할거면 오른쪽 항목의 Unity 5.6 Editor를 선택하지 않고  
+  설치한 후에 Unity 사이트에서 최신버전을 다운로드 받아 설치하면 된다.(난 최신설치!)
+<br/>
+
 
 ### 4. Unity 5.6.1
 
